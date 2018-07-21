@@ -1,0 +1,49 @@
+{
+  "details":{
+    "image":"maheshbabu-sitara-ghattamaneni1-nggid042544-ngg0dyn-220x190x100-00f0w010c011r110f110r010t010.jpg",
+    "name": "sivaphaneendrakalidindi",
+    "phonene":"9949624821",
+    "email":"sivaphaneendrakalidindi@gmail.com",
+    "Address":"bhimavaram"
+  },
+  "carrer":{
+    "info":"I Want to be IT Administrator for a big company with a great challange."
+},
+"education":[{
+  "degree":"Btech",
+  "institute":"SRKR ENGINEERING COLLEGE",
+  "date":["2016-2020","75%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"ADITYA JUNIOR COLLEGE",
+  "date":["2014-2016","83%"]
+},
+{
+"degree":"SSC",
+"institute":"RAVINDRA BHARATHI SCHOOL",
+"date":["2013-2014","87%"]
+
+}
+],
+"keyskills":[
+  {
+    "title":"Programming languages:",
+    "info":["C,C++,JAVA,Python,ruby"]
+  },
+  {
+    "title":"Operating Systems:",
+    "info":["windows,linux,mac,ubuntu,dos"]
+  },
+  {
+    "title":"Databases:",
+    "info":["Oracle,sql,mysql"]
+
+  }
+],
+"Achievements":{
+  "one":"iam sivaphaneendra kalidindi",
+  "two":"iam gonna be great person some day",
+  "three":"Believe it!!"
+}
+}
